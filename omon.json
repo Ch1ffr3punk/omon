@@ -1,0 +1,11 @@
+{
+  "cookie_paths": [
+    "C:\\Program Files (x86)\\OmniMix\\tor\\data\\control_auth_cookie",
+    "/home/your_name/.tor/control_auth_cookie",
+    "/var/lib/tor/control_auth_cookie"
+  ],
+  "ports": [
+    "9051",
+    "9055"
+  ]
+}
